@@ -1,4 +1,5 @@
 # Rental-Restyle-Database-Management-Systems-Project
+<img src = "DBMS.JPG" height = "500">
 
 This project was part of the course 'Database Management Systems'
 
